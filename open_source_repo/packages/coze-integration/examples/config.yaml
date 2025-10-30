@@ -1,0 +1,114 @@
+# Coze集成系统配置文件示例
+# 请根据实际环境修改相应配置
+
+# Coze平台配置
+coze:
+  base_url: "https://api.coze.cn"
+  api_version: "v3"
+  timeout: 30
+  max_retries: 3
+  rate_limit: 1000  # QPS/小时
+  jwt_algorithm: "RS256"
+  jwt_expiry: 3600  # 1小时
+  access_token_expiry: 86400  # 24小时
+
+# 数据库配置
+database:
+  mysql_host: "localhost"
+  mysql_port: 3306
+  mysql_user: "root"
+  mysql_password: "your_password"
+  mysql_database: "coffee_salon"
+  redis_host: "localhost"
+  redis_port: 6379
+  redis_password: ""
+  redis_db: 0
+
+# 消息队列配置
+message_queue:
+  rocketmq_endpoint: "localhost:9876"
+  rocketmq_access_key: ""
+  rocketmq_secret_key: ""
+  rocketmq_instance: "MQ_INST_xxx"
+  topics:
+    - "coffee.salon.knowledge.update"
+    - "coffee.salon.rag.completed"
+    - "coffee.salon.review.approved"
+    - "coffee.salon.print.completed"
+    - "coffee.salon.auth.login"
+
+# 安全配置
+security:
+  jwt_secret_key: "your-super-secret-jwt-key-here"
+  jwt_algorithm: "HS256"
+  jwt_expiry: 3600
+  encryption_key: "your-encryption-key-here"
+  audit_enabled: true
+  audit_retention_days: 365
+
+# 监控配置
+monitoring:
+  observability_enabled: true
+  metrics_endpoint: "/metrics"
+  tracing_enabled: true
+  log_level: "INFO"
+  structured_logging: true
+
+# 系统配置
+environment: "development"  # development, testing, production
+debug: true
+
+# 智能体配置
+agents:
+  researcher:
+    bot_id: "bot_researcher_001"
+    max_concurrent_tasks: 5
+    timeout: 300
+  evaluator:
+    bot_id: "bot_evaluator_001"
+    max_concurrent_tasks: 3
+    timeout: 180
+  summarizer:
+    bot_id: "bot_summarizer_001"
+    max_concurrent_tasks: 3
+    timeout: 240
+  qna_agent:
+    bot_id: "bot_qna_001"
+    max_concurrent_tasks: 10
+    timeout: 60
+  dispatcher:
+    bot_id: "bot_dispatcher_001"
+    max_concurrent_tasks: 5
+    timeout: 30
+  print_agent:
+    bot_id: "bot_print_001"
+    max_concurrent_tasks: 3
+    timeout: 120
+
+# 性能配置
+performance:
+  max_workers: 10
+  queue_size: 1000
+  cache_ttl: 3600  # 1小时
+  rate_limit_per_tenant: 1000
+
+# 打印服务配置
+print_service:
+  default_printer: "coffee_printer"
+  paper_size: "A4"
+  font_size: 12
+  margin: 20
+
+# 知识库配置
+knowledge_base:
+  max_documents: 10000
+  chunk_size: 1000
+  overlap: 200
+  embedding_model: "text-embedding-ada-002"
+
+# RAG配置
+rag:
+  top_k: 5
+  similarity_threshold: 0.7
+  max_context_length: 4000
+  rerank_enabled: true
