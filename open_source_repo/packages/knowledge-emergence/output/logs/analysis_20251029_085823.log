@@ -1,0 +1,12 @@
+2025-10-29 08:58:23,126 - KnowledgeEmergence - INFO - 知识涌现分析器初始化完成
+2025-10-29 08:58:23,126 - KnowledgeEmergence - INFO - 开始知识涌现分析...
+2025-10-29 08:58:23,178 - KnowledgeEmergence - INFO - 步骤 1: 数据采集
+2025-10-29 08:58:23,184 - KnowledgeEmergence - INFO - 成功采集 10 条知识项
+2025-10-29 08:58:23,184 - KnowledgeEmergence - INFO - 步骤 2: 指标计算
+2025-10-29 08:58:23,188 - KnowledgeEmergence - INFO - 步骤 3: 质量评估
+2025-10-29 08:58:23,188 - KnowledgeEmergence - INFO - 步骤 4: 模式识别
+2025-10-29 08:58:23,205 - KnowledgeEmergence - INFO - 步骤 5: 价值评估
+2025-10-29 08:58:23,206 - KnowledgeEmergence - INFO - 步骤 6: 生成可视化
+2025-10-29 08:58:27,627 - KnowledgeEmergence - INFO - 步骤 7: 生成报告
+2025-10-29 08:58:27,695 - KnowledgeEmergence - INFO - 步骤 8: 保存分析结果
+2025-10-29 08:58:27,716 - KnowledgeEmergence - INFO - 知识涌现分析完成!
