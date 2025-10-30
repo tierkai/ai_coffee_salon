@@ -1,0 +1,67 @@
+name: Documentation
+
+on:
+  push:
+    paths:
+      - 'docs/**'
+      - 'packages/**'
+      - 'web-app/**'
+
+jobs:
+  build-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install docs dependencies
+        run: |
+          npm install -g @docusaurus/core @docusaurus/preset-classic
+          
+      - name: Build documentation
+        run: |
+          cd docs
+          npm install
+          npm run build
+          
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs/build
+
+  generate-api-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          pip install sphinx sphinx-rtd-theme
+          
+      - name: Generate Python API docs
+        run: |
+          sphinx-apidoc -o docs/api/python packages/
+          sphinx-build -b html docs/api/python docs/build/api/python
+          
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install TypeDoc
+        run: |
+          npm install -g typedoc
+          
+      - name: Generate TypeScript API docs
+        run: |
+          typedoc --out docs/build/api/typescript web-app/src/

@@ -1,0 +1,36 @@
+name: License Scan
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  license-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: Install license scanner
+        run: |
+          pip install pip-licenses
+          
+      - name: Scan licenses
+        run: |
+          pip-licenses --format=table --with-urls > licenses.txt
+          
+      - name: Check license compatibility
+        run: |
+          python scripts/check_licenses.py
+          
+      - name: Upload license report
+        uses: actions/upload-artifact@v3
+        with:
+          name: license-report
+          path: licenses.txt
