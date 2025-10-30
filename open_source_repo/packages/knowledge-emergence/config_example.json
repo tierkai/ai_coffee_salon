@@ -1,0 +1,229 @@
+{
+  "data_collector": {
+    "data_sources": [
+      {
+        "name": "knowledge_base",
+        "type": "file",
+        "config": {
+          "path": "data/knowledge_base.json",
+          "file_type": "json"
+        },
+        "enabled": true
+      },
+      {
+        "name": "research_papers",
+        "type": "api",
+        "config": {
+          "url": "https://api.semanticscholar.org/graph/v1/paper/search",
+          "headers": {
+            "Accept": "application/json"
+          },
+          "params": {
+            "query": "knowledge emergence",
+            "limit": 100
+          }
+        },
+        "enabled": false
+      },
+      {
+        "name": "web_content",
+        "type": "web",
+        "config": {
+          "urls": [
+            "https://example.com/knowledge1",
+            "https://example.com/knowledge2"
+          ],
+          "crawl_depth": 2
+        },
+        "enabled": false
+      }
+    ]
+  },
+  "metrics_calculator": {
+    "min_pattern_strength": 0.3,
+    "time_window_days": 7,
+    "clustering": {
+      "n_clusters": 5,
+      "random_state": 42
+    }
+  },
+  "quality_assessor": {
+    "quality_weights": {
+      "accuracy": 0.25,
+      "completeness": 0.20,
+      "consistency": 0.20,
+      "credibility": 0.20,
+      "relevance": 0.15
+    },
+    "credibility_indicators": {
+      "high": ["研究", "实验", "数据", "统计", "证实", "验证", "发现", "分析"],
+      "medium": ["认为", "建议", "可能", "似乎", "推测", "估计"],
+      "low": ["据说", "听说", "传言", "据说", "可能", "也许"]
+    }
+  },
+  "pattern_recognizer": {
+    "min_pattern_strength": 0.3,
+    "time_window_days": 7,
+    "clustering": {
+      "n_clusters": 5,
+      "random_state": 42
+    },
+    "domain_keywords": {
+      "science": ["研究", "实验", "理论", "发现", "分析", "数据"],
+      "technology": ["技术", "创新", "开发", "系统", "算法", "应用"],
+      "business": ["商业", "市场", "企业", "经济", "管理", "策略"],
+      "social": ["社会", "文化", "教育", "政策", "影响", "趋势"],
+      "health": ["健康", "医疗", "疾病", "治疗", "预防", "研究"]
+    }
+  },
+  "value_assessor": {
+    "value_weights": {
+      "economic": 0.3,
+      "social": 0.25,
+      "application": 0.25,
+      "innovation": 0.2
+    },
+    "value_indicators": {
+      "economic": {
+        "high": ["商业价值", "市场潜力", "经济效益", "投资回报", "成本节约", "收入增长"],
+        "medium": ["价值", "收益", "利润", "效率", "优化"],
+        "low": ["花费", "成本", "支出", "损失"]
+      },
+      "social": {
+        "high": ["社会效益", "公共利益", "民生改善", "教育价值", "文化传承", "社会进步"],
+        "medium": ["影响", "意义", "作用", "贡献", "帮助"],
+        "low": ["问题", "风险", "挑战", "负面影响"]
+      },
+      "application": {
+        "high": ["实用价值", "应用前景", "技术成熟", "可实施", "解决方案", "工具"],
+        "medium": ["应用", "使用", "实施", "操作", "实践"],
+        "low": ["理论", "概念", "设想", "可能"]
+      },
+      "innovation": {
+        "high": ["创新突破", "原创性", "颠覆性", "前沿技术", "新兴领域", "突破性"],
+        "medium": ["新颖", "独特", "改进", "优化", "发展"],
+        "low": ["传统", "常规", "标准", "常见"]
+      }
+    },
+    "industry_benchmarks": {
+      "technology": {
+        "base_value": 0.8,
+        "growth_potential": 0.9
+      },
+      "healthcare": {
+        "base_value": 0.9,
+        "growth_potential": 0.8
+      },
+      "finance": {
+        "base_value": 0.7,
+        "growth_potential": 0.7
+      },
+      "education": {
+        "base_value": 0.6,
+        "growth_potential": 0.8
+      },
+      "manufacturing": {
+        "base_value": 0.7,
+        "growth_potential": 0.6
+      },
+      "energy": {
+        "base_value": 0.8,
+        "growth_potential": 0.9
+      },
+      "environment": {
+        "base_value": 0.7,
+        "growth_potential": 0.8
+      }
+    }
+  },
+  "visualizer": {
+    "output_dir": "visualizations",
+    "figure_size": [12, 8],
+    "dpi": 100,
+    "color_palette": "viridis",
+    "font_size": 12,
+    "title_size": 16,
+    "chart_configs": {
+      "timeline": {
+        "type": "line",
+        "color": "#2E86AB"
+      },
+      "distribution": {
+        "type": "histogram",
+        "color": "#A23B72"
+      },
+      "correlation": {
+        "type": "heatmap",
+        "color": "RdYlBu"
+      },
+      "network": {
+        "type": "graph",
+        "color": "#F18F01"
+      },
+      "comparison": {
+        "type": "bar",
+        "color": "#C73E1D"
+      }
+    }
+  },
+  "report_generator": {
+    "output_dir": "reports",
+    "template_style": "professional",
+    "include_charts": true,
+    "include_recommendations": true,
+    "language": "zh-CN",
+    "report_templates": {
+      "executive": {
+        "max_length": 2000,
+        "include_charts": false,
+        "focus": "summary"
+      },
+      "technical": {
+        "max_length": 10000,
+        "include_charts": true,
+        "focus": "details"
+      },
+      "comprehensive": {
+        "max_length": 20000,
+        "include_charts": true,
+        "focus": "complete"
+      }
+    }
+  },
+  "output": {
+    "base_dir": "output",
+    "create_subdirs": true,
+    "subdirs": [
+      "visualizations",
+      "reports",
+      "data",
+      "logs"
+    ],
+    "file_formats": {
+      "reports": ["md", "html", "json"],
+      "visualizations": ["png", "svg", "pdf"],
+      "data": ["json", "csv"]
+    }
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "file_rotation": "daily",
+    "max_file_size": "10MB",
+    "backup_count": 5
+  },
+  "performance": {
+    "batch_size": 100,
+    "max_workers": 4,
+    "memory_limit": "1GB",
+    "timeout": 3600,
+    "cache_enabled": true,
+    "parallel_processing": true
+  },
+  "validation": {
+    "input_validation": true,
+    "output_validation": true,
+    "schema_check": true,
+    "data_quality_check": true
+  }
+}
