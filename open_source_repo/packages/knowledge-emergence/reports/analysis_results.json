@@ -1,0 +1,1833 @@
+{
+  "metadata": {
+    "generation_time": "2025-10-29T08:58:27.666650",
+    "version": "1.0",
+    "analysis_type": "knowledge_emergence"
+  },
+  "summary": {
+    "total_items": 10,
+    "avg_quality": 0.5551999999999999,
+    "avg_value": 0.056400000000000006,
+    "pattern_count": 5
+  },
+  "analysis_results": {
+    "knowledge_items": [
+      {
+        "title": "埃塞俄比亚咖啡豆风味解析",
+        "content": "埃塞俄比亚是咖啡的发源地，拥有丰富的遗传多样性和独特的风味特征。主要产区包括耶加雪菲、西达摩、哈拉尔等。耶加雪菲以其花香和果酸著称，西达摩产区风味复杂多变，哈拉尔则以干燥处理法带来的独特果香闻名。不同海拔和微气候对咖啡豆的风味形成有重要影响。高海拔地区的咖啡豆密度更高，酸质更明亮，风味更复杂。",
+        "source": "咖啡专家研究报告",
+        "author": "张咖啡专家",
+        "publication_date": "2025-03-03",
+        "tags": [
+          "咖啡豆",
+          "埃塞俄比亚",
+          "风味",
+          "产区"
+        ],
+        "importance": 9,
+        "citations": 25,
+        "salon_session": "01",
+        "protocol_type": "茶架构",
+        "participants": 18,
+        "discussion_depth": 8.5,
+        "consensus_level": 0.85,
+        "knowledge_emergence_score": 0.78,
+        "innovation_index": 0.72,
+        "quality_metrics": {
+          "accuracy": 0.92,
+          "completeness": 0.88,
+          "consistency": 0.85,
+          "credibility": 0.9,
+          "relevance": 0.87
+        }
+      },
+      {
+        "title": "阿拉比卡vs罗布斯塔品种对比研究",
+        "content": "阿拉比卡咖啡豆(Coffea arabica)和罗布斯塔咖啡豆(Coffea canephora)是两种主要的商业咖啡品种。阿拉比卡豆风味更佳，咖啡因含量较低(1.2-1.5%)，但抗病能力较弱，主要种植在高海拔地区。罗布斯塔豆咖啡因含量高(2.0-2.7%)，抗病能力强，适合低海拔种植，但风味较苦，主要用于速溶咖啡和拼配豆。在商业应用中，两者经常混合使用以平衡风味和成本。",
+        "source": "咖啡品种研究论文",
+        "author": "李博士",
+        "publication_date": "2025-03-10",
+        "tags": [
+          "咖啡品种",
+          "阿拉比卡",
+          "罗布斯塔",
+          "对比分析"
+        ],
+        "importance": 8,
+        "citations": 18,
+        "salon_session": "02",
+        "protocol_type": "小笼包架构",
+        "participants": 16,
+        "discussion_depth": 7.8,
+        "consensus_level": 0.82,
+        "knowledge_emergence_score": 0.75,
+        "innovation_index": 0.68,
+        "quality_metrics": {
+          "accuracy": 0.89,
+          "completeness": 0.91,
+          "consistency": 0.87,
+          "credibility": 0.88,
+          "relevance": 0.85
+        }
+      },
+      {
+        "title": "精品咖啡处理法创新实践",
+        "content": "咖啡处理法对最终风味有决定性影响。传统的水洗、日晒、蜜处理法各有特色，而新兴的厌氧发酵、酵母发酵等创新处理法带来更多可能性。厌氧发酵通过控制发酵环境，可以增强咖啡的果香和复杂度。酵母发酵利用特定酵母菌株，能够产生独特的风味化合物。这些创新处理法虽然成本较高，但为精品咖啡市场提供了差异化产品。",
+        "source": "精品咖啡创新报告",
+        "author": "王创新师",
+        "publication_date": "2025-03-17",
+        "tags": [
+          "处理法",
+          "创新",
+          "发酵",
+          "精品咖啡"
+        ],
+        "importance": 8,
+        "citations": 22,
+        "salon_session": "03",
+        "protocol_type": "咖啡架构",
+        "participants": 20,
+        "discussion_depth": 8.2,
+        "consensus_level": 0.78,
+        "knowledge_emergence_score": 0.82,
+        "innovation_index": 0.85,
+        "quality_metrics": {
+          "accuracy": 0.86,
+          "completeness": 0.84,
+          "consistency": 0.82,
+          "credibility": 0.83,
+          "relevance": 0.89
+        }
+      },
+      {
+        "title": "全球主要咖啡产区气候影响分析",
+        "content": "气候变化对全球咖啡产区产生深远影响。温度上升导致适宜种植区域向高海拔迁移，降雨模式变化影响咖啡花期和果实发育。巴西作为最大咖啡生产国，面临干旱风险增加；越南罗布斯塔产区受极端天气影响产量波动；中美洲产区受飓风和干旱双重威胁。适应策略包括培育耐热品种、改进种植技术、建立气候预警系统等。长期来看，咖啡产业需要系统性应对气候变化。",
+        "source": "农业气候研究",
+        "author": "陈气候专家",
+        "publication_date": "2025-03-24",
+        "tags": [
+          "气候变化",
+          "产区",
+          "影响分析",
+          "适应策略"
+        ],
+        "importance": 9,
+        "citations": 31,
+        "salon_session": "04",
+        "protocol_type": "茶架构",
+        "participants": 22,
+        "discussion_depth": 8.8,
+        "consensus_level": 0.87,
+        "knowledge_emergence_score": 0.8,
+        "innovation_index": 0.74,
+        "quality_metrics": {
+          "accuracy": 0.94,
+          "completeness": 0.89,
+          "consistency": 0.88,
+          "credibility": 0.92,
+          "relevance": 0.91
+        }
+      },
+      {
+        "title": "咖啡豆烘焙度与风味关系模型",
+        "content": "烘焙度是影响咖啡风味的关键因素。浅度烘焙保留更多酸质和花香，中度烘焙平衡酸甜，深度烘焙产生焦糖化和巧克力风味。烘焙过程中的梅纳反应和焦糖化反应产生复杂的香气化合物。不同产区的咖啡豆适合不同的烘焙度，埃塞俄比亚豆适合浅度烘焙突出其花果香，巴西豆则适合中深度烘焙。烘焙参数包括温度、时间、转速等，需要根据豆种特性调整。",
+        "source": "烘焙技术研究",
+        "author": "赵烘焙师",
+        "publication_date": "2025-03-31",
+        "tags": [
+          "烘焙",
+          "风味",
+          "关系模型",
+          "技术"
+        ],
+        "importance": 8,
+        "citations": 19,
+        "salon_session": "05",
+        "protocol_type": "小笼包架构",
+        "participants": 17,
+        "discussion_depth": 7.9,
+        "consensus_level": 0.84,
+        "knowledge_emergence_score": 0.77,
+        "innovation_index": 0.71,
+        "quality_metrics": {
+          "accuracy": 0.88,
+          "completeness": 0.87,
+          "consistency": 0.86,
+          "credibility": 0.85,
+          "relevance": 0.88
+        }
+      },
+      {
+        "title": "手冲咖啡技术标准化研究",
+        "content": "手冲咖啡技术标准化对于保证品质一致性至关重要。关键参数包括水温(90-96°C)、研磨度(中细)、粉水比(1:15-1:17)、冲泡时间(2.5-4分钟)。注水方式影响萃取均匀性，常用的手法包括分段注水、中心注水、绕圈注水等。不同滤器对流速和风味有影响，金属滤器保留油脂口感更丰富，纸质滤器口感更干净。标准化流程有助于新手快速上手，同时为专业咖啡师提供品质控制基准。",
+        "source": "手冲技术标准",
+        "author": "孙咖啡师",
+        "publication_date": "2025-04-07",
+        "tags": [
+          "手冲",
+          "标准化",
+          "技术",
+          "品质控制"
+        ],
+        "importance": 7,
+        "citations": 15,
+        "salon_session": "06",
+        "protocol_type": "咖啡架构",
+        "participants": 19,
+        "discussion_depth": 8.1,
+        "consensus_level": 0.81,
+        "knowledge_emergence_score": 0.79,
+        "innovation_index": 0.76,
+        "quality_metrics": {
+          "accuracy": 0.87,
+          "completeness": 0.85,
+          "consistency": 0.84,
+          "credibility": 0.86,
+          "relevance": 0.9
+        }
+      },
+      {
+        "title": "意式浓缩萃取参数优化",
+        "content": "意式浓缩萃取需要精确控制多个参数。粉量通常为18-20克，萃取时间25-30秒，萃取液重36-40克。研磨度是影响萃取的关键，过细导致过萃产生苦味，过粗导致欠萃产生酸味。压粉力度影响萃取均匀性，标准压力为30磅。水温应控制在90-92°C，压力9个大气压。不同咖啡豆需要调整参数以达到最佳风味。变量包括预浸时间、萃取曲线等，需要根据豆种特性优化。",
+        "source": "意式咖啡技术",
+        "author": "周技师",
+        "publication_date": "2025-04-14",
+        "tags": [
+          "意式浓缩",
+          "萃取",
+          "参数优化",
+          "技术"
+        ],
+        "importance": 8,
+        "citations": 21,
+        "salon_session": "07",
+        "protocol_type": "小笼包架构",
+        "participants": 16,
+        "discussion_depth": 8.0,
+        "consensus_level": 0.83,
+        "knowledge_emergence_score": 0.76,
+        "innovation_index": 0.73,
+        "quality_metrics": {
+          "accuracy": 0.9,
+          "completeness": 0.88,
+          "consistency": 0.87,
+          "credibility": 0.89,
+          "relevance": 0.87
+        }
+      },
+      {
+        "title": "法压壶萃取技术改进",
+        "content": "法压壶是一种简单而有效的萃取设备，但存在一些技术改进空间。传统法压壶的金属滤网允许细粉通过，影响口感。改进方案包括使用更细密的滤网、增加预浸步骤、控制搅拌力度和时间。萃取时间通常为4分钟，温度94°C。改进后的法压壶可以产生更干净的口感，同时保留咖啡的醇厚感。搅拌技术也很重要，应该缓慢而均匀，避免产生涡流。",
+        "source": "萃取设备创新",
+        "author": "吴工程师",
+        "publication_date": "2025-04-21",
+        "tags": [
+          "法压壶",
+          "技术改进",
+          "萃取",
+          "设备"
+        ],
+        "importance": 7,
+        "citations": 12,
+        "salon_session": "08",
+        "protocol_type": "咖啡架构",
+        "participants": 15,
+        "discussion_depth": 7.6,
+        "consensus_level": 0.79,
+        "knowledge_emergence_score": 0.74,
+        "innovation_index": 0.78,
+        "quality_metrics": {
+          "accuracy": 0.84,
+          "completeness": 0.82,
+          "consistency": 0.81,
+          "credibility": 0.83,
+          "relevance": 0.85
+        }
+      },
+      {
+        "title": "冷萃咖啡工艺创新",
+        "content": "冷萃咖啡(Cold Brew)采用低温长时间萃取工艺，通常需要12-24小时。创新工艺包括分段萃取、压力辅助萃取、超声波辅助等。分段萃取可以调整萃取强度，压力辅助可以缩短萃取时间，超声波可以提高萃取效率。冷萃咖啡酸度较低，口感更温和，适合制作冰咖啡和特调饮品。创新工艺在保持冷萃咖啡温和口感的同时，增加风味复杂度和萃取效率。",
+        "source": "冷萃工艺研究",
+        "author": "郑创新师",
+        "publication_date": "2025-04-28",
+        "tags": [
+          "冷萃",
+          "工艺创新",
+          "低温萃取",
+          "技术"
+        ],
+        "importance": 7,
+        "citations": 14,
+        "salon_session": "09",
+        "protocol_type": "咖啡架构",
+        "participants": 18,
+        "discussion_depth": 7.8,
+        "consensus_level": 0.8,
+        "knowledge_emergence_score": 0.81,
+        "innovation_index": 0.82,
+        "quality_metrics": {
+          "accuracy": 0.85,
+          "completeness": 0.83,
+          "consistency": 0.82,
+          "credibility": 0.84,
+          "relevance": 0.88
+        }
+      },
+      {
+        "title": "全自动咖啡机技术评估",
+        "content": "全自动咖啡机技术快速发展，从简单的研磨萃取一体机发展为智能化咖啡制作系统。关键技术包括自动研磨系统、智能萃取控制、奶泡系统、清洁系统等。评估维度包括萃取稳定性、清洁便利性、维护成本、咖啡品质等。高端机型配备智能识别系统，可以识别咖啡豆种类并自动调整参数。技术发展趋势包括物联网连接、APP控制、AI优化等，为用户提供更便捷的咖啡制作体验。",
+        "source": "设备技术评估",
+        "author": "马工程师",
+        "publication_date": "2025-05-05",
+        "tags": [
+          "全自动咖啡机",
+          "技术评估",
+          "智能化",
+          "设备"
+        ],
+        "importance": 8,
+        "citations": 17,
+        "salon_session": "10",
+        "protocol_type": "小笼包架构",
+        "participants": 20,
+        "discussion_depth": 8.3,
+        "consensus_level": 0.85,
+        "knowledge_emergence_score": 0.78,
+        "innovation_index": 0.75,
+        "quality_metrics": {
+          "accuracy": 0.88,
+          "completeness": 0.9,
+          "consistency": 0.87,
+          "credibility": 0.86,
+          "relevance": 0.89
+        }
+      }
+    ],
+    "metrics": {
+      "diversity": {
+        "shannon_diversity": 4.5236,
+        "simpson_diversity": 0.9565,
+        "gini_coefficient": 0.0,
+        "unique_topics": 23,
+        "total_topics": 23,
+        "diversity_score": 0.9866
+      },
+      "connectivity": {
+        "avg_connectivity": 0.0,
+        "network_density": 0.0,
+        "avg_clustering_coefficient": 0,
+        "total_connections": 0,
+        "connectivity_score": 0.0
+      },
+      "complexity": {
+        "avg_complexity": 0.5307,
+        "max_complexity": 0.5473,
+        "min_complexity": 0.5237,
+        "complexity_std": 0.0059,
+        "complexity_score": 53.07
+      },
+      "emergence": {
+        "emergence_intensity": 0.0741,
+        "innovation_rate": 1.0,
+        "avg_integration": 0.0,
+        "knowledge_growth_trend": [
+          2,
+          4,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          3,
+          2
+        ],
+        "total_growth_points": 10,
+        "emergence_score": 35.8
+      },
+      "coherence": {
+        "avg_similarity": 0.0,
+        "coherence_trend": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "coherence_stability": 1.0,
+        "max_similarity": 0.0,
+        "min_similarity": 0.0,
+        "coherence_score": 0.0
+      },
+      "impact": {
+        "avg_impact": 0.3459,
+        "max_impact": 0.4136,
+        "min_impact": 0.2966,
+        "impact_std": 0.0363,
+        "high_impact_count": 0,
+        "impact_score": 34.59
+      },
+      "overall": {
+        "total_score": 0,
+        "score_breakdown": {
+          "diversity": 0,
+          "connectivity": 0,
+          "complexity": 0,
+          "emergence": 0,
+          "coherence": 0,
+          "impact": 0
+        },
+        "calculation_time": "2025-10-29T08:58:23.187986",
+        "data_points": 10
+      }
+    },
+    "quality_scores": [
+      {
+        "overall_score": 0.564,
+        "accuracy_score": 0.67,
+        "completeness_score": 0.06,
+        "consistency_score": 1,
+        "credibility_score": 0.47,
+        "relevance_score": 0.6,
+        "details": {
+          "accuracy_details": {
+            "contradictions": [],
+            "consistency_score": 1.0,
+            "uncertainty_penalty": 0.0,
+            "source_quality": 0.9,
+            "final_score": 0.67
+          },
+          "completeness_details": {
+            "word_count": 2,
+            "length_score": 0.1,
+            "element_scores": {
+              "定义": 0.0,
+              "解释": 0.0,
+              "原因": 0.0,
+              "结果": 0.0,
+              "例子": 0.0,
+              "数据": 0.0,
+              "引用": 0.0
+            },
+            "structure_score": 0.0,
+            "context_score": 0.2,
+            "final_score": 0.06
+          },
+          "consistency_details": {
+            "concept_consistency": {},
+            "logical_consistency": 1.0,
+            "numerical_consistency": 1.0,
+            "final_score": 1
+          },
+          "credibility_details": {
+            "credibility_indicators": {
+              "high_credibility": 0,
+              "medium_credibility": 0,
+              "low_credibility": 0
+            },
+            "indicator_score": 0,
+            "source_score": 0.8,
+            "objectivity_score": 0.5,
+            "final_score": 0.47
+          },
+          "relevance_details": {
+            "info_density": 0.0,
+            "timeliness": 0.5,
+            "uniqueness": 1.0,
+            "final_score": 0.6
+          },
+          "assessment_time": "2025-10-29T08:58:23.188244"
+        }
+      },
+      {
+        "overall_score": 0.693,
+        "accuracy_score": 0.97,
+        "completeness_score": 0.02,
+        "consistency_score": 0.908,
+        "credibility_score": 0.65,
+        "relevance_score": 0.9,
+        "details": {
+          "accuracy_details": {
+            "number_accuracy": 1.0,
+            "contradictions": [],
+            "consistency_score": 1.0,
+            "uncertainty_penalty": 0.0,
+            "source_quality": 0.9,
+            "final_score": 0.97
+          },
+          "completeness_details": {
+            "word_count": 4,
+            "length_score": 0.1,
+            "element_scores": {
+              "定义": 0.0,
+              "解释": 0.0,
+              "原因": 0.0,
+              "结果": 0.0,
+              "例子": 0.0,
+              "数据": 0.0,
+              "引用": 0.0
+            },
+            "structure_score": 0.0,
+            "context_score": 0.0,
+            "final_score": 0.02
+          },
+          "consistency_details": {
+            "concept_consistency": {},
+            "logical_consistency": 1.0,
+            "numerical_consistency": 0.693,
+            "final_score": 0.908
+          },
+          "credibility_details": {
+            "credibility_indicators": {
+              "high_credibility": 1,
+              "medium_credibility": 0,
+              "low_credibility": 0
+            },
+            "indicator_score": 0.1,
+            "source_score": 0.8,
+            "objectivity_score": 1.0,
+            "final_score": 0.65
+          },
+          "relevance_details": {
+            "info_density": 1.0,
+            "timeliness": 0.5,
+            "uniqueness": 1.0,
+            "final_score": 0.9
+          },
+          "assessment_time": "2025-10-29T08:58:23.188369"
+        }
+      },
+      {
+        "overall_score": 0.389,
+        "accuracy_score": 0.22,
+        "completeness_score": 0.06,
+        "consistency_score": 1,
+        "credibility_score": 0.16,
+        "relevance_score": 0.6,
+        "details": {
+          "accuracy_details": {
+            "contradictions": [],
+            "consistency_score": 1.0,
+            "uncertainty_penalty": 0.3,
+            "source_quality": 0.4,
+            "final_score": 0.22
+          },
+          "completeness_details": {
+            "word_count": 2,
+            "length_score": 0.1,
+            "element_scores": {
+              "定义": 0.0,
+              "解释": 0.0,
+              "原因": 0.0,
+              "结果": 0.0,
+              "例子": 0.0,
+              "数据": 0.0,
+              "引用": 0.0
+            },
+            "structure_score": 0.0,
+            "context_score": 0.2,
+            "final_score": 0.06
+          },
+          "consistency_details": {
+            "concept_consistency": {},
+            "logical_consistency": 1.0,
+            "numerical_consistency": 1.0,
+            "final_score": 1
+          },
+          "credibility_details": {
+            "credibility_indicators": {
+              "high_credibility": 0,
+              "medium_credibility": 1,
+              "low_credibility": 1
+            },
+            "indicator_score": 0,
+            "source_score": 0.4,
+            "objectivity_score": 0.0,
+            "final_score": 0.16
+          },
+          "relevance_details": {
+            "info_density": 0.0,
+            "timeliness": 0.5,
+            "uniqueness": 1.0,
+            "final_score": 0.6
+          },
+          "assessment_time": "2025-10-29T08:58:23.188431"
+        }
+      },
+      {
+        "overall_score": 0.645,
+        "accuracy_score": 0.67,
+        "completeness_score": 0.06,
+        "consistency_score": 1,
+        "credibility_score": 0.65,
+        "relevance_score": 0.9,
+        "details": {
+          "accuracy_details": {
+            "contradictions": [],
+            "consistency_score": 1.0,
+            "uncertainty_penalty": 0.0,
+            "source_quality": 0.9,
+            "final_score": 0.67
+          },
+          "completeness_details": {
+            "word_count": 2,
+            "length_score": 0.1,
+            "element_scores": {
+              "定义": 0.0,
+              "解释": 0.0,
+              "原因": 0.0,
+              "结果": 0.0,
+              "例子": 0.0,
+              "数据": 0.0,
+              "引用": 0.0
+            },
+            "structure_score": 0.0,
+            "context_score": 0.2,
+            "final_score": 0.06
+          },
+          "consistency_details": {
+            "concept_consistency": {},
+            "logical_consistency": 1.0,
+            "numerical_consistency": 1.0,
+            "final_score": 1
+          },
+          "credibility_details": {
+            "credibility_indicators": {
+              "high_credibility": 1,
+              "medium_credibility": 0,
+              "low_credibility": 0
+            },
+            "indicator_score": 0.1,
+            "source_score": 0.8,
+            "objectivity_score": 1.0,
+            "final_score": 0.65
+          },
+          "relevance_details": {
+            "info_density": 1.0,
+            "timeliness": 0.5,
+            "uniqueness": 1.0,
+            "final_score": 0.9
+          },
+          "assessment_time": "2025-10-29T08:58:23.188489"
+        }
+      },
+      {
+        "overall_score": 0.564,
+        "accuracy_score": 0.67,
+        "completeness_score": 0.06,
+        "consistency_score": 1,
+        "credibility_score": 0.47,
+        "relevance_score": 0.6,
+        "details": {
+          "accuracy_details": {
+            "contradictions": [],
+            "consistency_score": 1.0,
+            "uncertainty_penalty": 0.0,
+            "source_quality": 0.9,
+            "final_score": 0.67
+          },
+          "completeness_details": {
+            "word_count": 2,
+            "length_score": 0.1,
+            "element_scores": {
+              "定义": 0.0,
+              "解释": 0.0,
+              "原因": 0.0,
+              "结果": 0.0,
+              "例子": 0.0,
+              "数据": 0.0,
+              "引用": 0.0
+            },
+            "structure_score": 0.0,
+            "context_score": 0.2,
+            "final_score": 0.06
+          },
+          "consistency_details": {
+            "concept_consistency": {},
+            "logical_consistency": 1.0,
+            "numerical_consistency": 1.0,
+            "final_score": 1
+          },
+          "credibility_details": {
+            "credibility_indicators": {
+              "high_credibility": 0,
+              "medium_credibility": 0,
+              "low_credibility": 0
+            },
+            "indicator_score": 0,
+            "source_score": 0.8,
+            "objectivity_score": 0.5,
+            "final_score": 0.47
+          },
+          "relevance_details": {
+            "info_density": 0.0,
+            "timeliness": 0.5,
+            "uniqueness": 1.0,
+            "final_score": 0.6
+          },
+          "assessment_time": "2025-10-29T08:58:23.188558"
+        }
+      },
+      {
+        "overall_score": 0.59,
+        "accuracy_score": 0.82,
+        "completeness_score": 0.06,
+        "consistency_score": 0.7,
+        "credibility_score": 0.49,
+        "relevance_score": 0.9,
+        "details": {
+          "accuracy_details": {
+            "number_accuracy": 1.0,
+            "contradictions": [],
+            "consistency_score": 1.0,
+            "uncertainty_penalty": 0.0,
+            "source_quality": 0.4,
+            "final_score": 0.82
+          },
+          "completeness_details": {
+            "word_count": 2,
+            "length_score": 0.1,
+            "element_scores": {
+              "定义": 0.0,
+              "解释": 0.0,
+              "原因": 0.0,
+              "结果": 0.0,
+              "例子": 0.0,
+              "数据": 0.0,
+              "引用": 0.0
+            },
+            "structure_score": 0.0,
+            "context_score": 0.2,
+            "final_score": 0.06
+          },
+          "consistency_details": {
+            "concept_consistency": {},
+            "logical_consistency": 1.0,
+            "numerical_consistency": 0,
+            "final_score": 0.7
+          },
+          "credibility_details": {
+            "credibility_indicators": {
+              "high_credibility": 1,
+              "medium_credibility": 0,
+              "low_credibility": 0
+            },
+            "indicator_score": 0.1,
+            "source_score": 0.4,
+            "objectivity_score": 1.0,
+            "final_score": 0.49
+          },
+          "relevance_details": {
+            "info_density": 1.0,
+            "timeliness": 0.5,
+            "uniqueness": 1.0,
+            "final_score": 0.9
+          },
+          "assessment_time": "2025-10-29T08:58:23.188629"
+        }
+      },
+      {
+        "overall_score": 0.527,
+        "accuracy_score": 0.82,
+        "completeness_score": 0.06,
+        "consistency_score": 0.79,
+        "credibility_score": 0.31,
+        "relevance_score": 0.6,
+        "details": {
+          "accuracy_details": {
+            "number_accuracy": 1.0,
+            "contradictions": [],
+            "consistency_score": 1.0,
+            "uncertainty_penalty": 0.0,
+            "source_quality": 0.4,
+            "final_score": 0.82
+          },
+          "completeness_details": {
+            "word_count": 2,
+            "length_score": 0.1,
+            "element_scores": {
+              "定义": 0.0,
+              "解释": 0.0,
+              "原因": 0.0,
+              "结果": 0.0,
+              "例子": 0.0,
+              "数据": 0.0,
+              "引用": 0.0
+            },
+            "structure_score": 0.0,
+            "context_score": 0.2,
+            "final_score": 0.06
+          },
+          "consistency_details": {
+            "concept_consistency": {},
+            "logical_consistency": 1.0,
+            "numerical_consistency": 0.299,
+            "final_score": 0.79
+          },
+          "credibility_details": {
+            "credibility_indicators": {
+              "high_credibility": 0,
+              "medium_credibility": 0,
+              "low_credibility": 0
+            },
+            "indicator_score": 0,
+            "source_score": 0.4,
+            "objectivity_score": 0.5,
+            "final_score": 0.31
+          },
+          "relevance_details": {
+            "info_density": 0.0,
+            "timeliness": 0.5,
+            "uniqueness": 1.0,
+            "final_score": 0.6
+          },
+          "assessment_time": "2025-10-29T08:58:23.188698"
+        }
+      },
+      {
+        "overall_score": 0.484,
+        "accuracy_score": 0.82,
+        "completeness_score": 0.06,
+        "consistency_score": 0.724,
+        "credibility_score": 0.16,
+        "relevance_score": 0.6,
+        "details": {
+          "accuracy_details": {
+            "number_accuracy": 1.0,
+            "contradictions": [],
+            "consistency_score": 1.0,
+            "uncertainty_penalty": 0.0,
+            "source_quality": 0.4,
+            "final_score": 0.82
+          },
+          "completeness_details": {
+            "word_count": 2,
+            "length_score": 0.1,
+            "element_scores": {
+              "定义": 0.0,
+              "解释": 0.0,
+              "原因": 0.0,
+              "结果": 0.0,
+              "例子": 0.0,
+              "数据": 0.0,
+              "引用": 0.0
+            },
+            "structure_score": 0.0,
+            "context_score": 0.2,
+            "final_score": 0.06
+          },
+          "consistency_details": {
+            "concept_consistency": {},
+            "logical_consistency": 1.0,
+            "numerical_consistency": 0.082,
+            "final_score": 0.724
+          },
+          "credibility_details": {
+            "credibility_indicators": {
+              "high_credibility": 0,
+              "medium_credibility": 0,
+              "low_credibility": 0
+            },
+            "indicator_score": 0,
+            "source_score": 0.4,
+            "objectivity_score": 0.0,
+            "final_score": 0.16
+          },
+          "relevance_details": {
+            "info_density": 0.0,
+            "timeliness": 0.5,
+            "uniqueness": 1.0,
+            "final_score": 0.6
+          },
+          "assessment_time": "2025-10-29T08:58:23.188756"
+        }
+      },
+      {
+        "overall_score": 0.61,
+        "accuracy_score": 0.97,
+        "completeness_score": 0.02,
+        "consistency_score": 0.9,
+        "credibility_score": 0.47,
+        "relevance_score": 0.6,
+        "details": {
+          "accuracy_details": {
+            "number_accuracy": 1.0,
+            "contradictions": [],
+            "consistency_score": 1.0,
+            "uncertainty_penalty": 0.0,
+            "source_quality": 0.9,
+            "final_score": 0.97
+          },
+          "completeness_details": {
+            "word_count": 3,
+            "length_score": 0.1,
+            "element_scores": {
+              "定义": 0.0,
+              "解释": 0.0,
+              "原因": 0.0,
+              "结果": 0.0,
+              "例子": 0.0,
+              "数据": 0.0,
+              "引用": 0.0
+            },
+            "structure_score": 0.0,
+            "context_score": 0.0,
+            "final_score": 0.02
+          },
+          "consistency_details": {
+            "concept_consistency": {},
+            "logical_consistency": 1.0,
+            "numerical_consistency": 0.667,
+            "final_score": 0.9
+          },
+          "credibility_details": {
+            "credibility_indicators": {
+              "high_credibility": 0,
+              "medium_credibility": 0,
+              "low_credibility": 0
+            },
+            "indicator_score": 0,
+            "source_score": 0.8,
+            "objectivity_score": 0.5,
+            "final_score": 0.47
+          },
+          "relevance_details": {
+            "info_density": 0.0,
+            "timeliness": 0.5,
+            "uniqueness": 1.0,
+            "final_score": 0.6
+          },
+          "assessment_time": "2025-10-29T08:58:23.188813"
+        }
+      },
+      {
+        "overall_score": 0.486,
+        "accuracy_score": 0.52,
+        "completeness_score": 0.02,
+        "consistency_score": 1,
+        "credibility_score": 0.31,
+        "relevance_score": 0.6,
+        "details": {
+          "accuracy_details": {
+            "contradictions": [],
+            "consistency_score": 1.0,
+            "uncertainty_penalty": 0.0,
+            "source_quality": 0.4,
+            "final_score": 0.52
+          },
+          "completeness_details": {
+            "word_count": 2,
+            "length_score": 0.1,
+            "element_scores": {
+              "定义": 0.0,
+              "解释": 0.0,
+              "原因": 0.0,
+              "结果": 0.0,
+              "例子": 0.0,
+              "数据": 0.0,
+              "引用": 0.0
+            },
+            "structure_score": 0.0,
+            "context_score": 0.0,
+            "final_score": 0.02
+          },
+          "consistency_details": {
+            "concept_consistency": {},
+            "logical_consistency": 1.0,
+            "numerical_consistency": 1.0,
+            "final_score": 1
+          },
+          "credibility_details": {
+            "credibility_indicators": {
+              "high_credibility": 0,
+              "medium_credibility": 0,
+              "low_credibility": 0
+            },
+            "indicator_score": 0,
+            "source_score": 0.4,
+            "objectivity_score": 0.5,
+            "final_score": 0.31
+          },
+          "relevance_details": {
+            "info_density": 0.0,
+            "timeliness": 0.5,
+            "uniqueness": 1.0,
+            "final_score": 0.6
+          },
+          "assessment_time": "2025-10-29T08:58:23.188866"
+        }
+      }
+    ],
+    "patterns": [
+      {
+        "pattern_type": "domain_dominance",
+        "description": "'social'领域在知识中占主导地位",
+        "confidence": 0.34782608695652173,
+        "start_time": null,
+        "end_time": null,
+        "strength": 0.34782608695652173,
+        "supporting_evidence": [
+          "占比: 34.8%"
+        ],
+        "metadata": {
+          "domain": "social",
+          "percentage": 0.34782608695652173
+        }
+      },
+      {
+        "pattern_type": "domain_dominance",
+        "description": "'technology'领域在知识中占主导地位",
+        "confidence": 0.30434782608695654,
+        "start_time": null,
+        "end_time": null,
+        "strength": 0.30434782608695654,
+        "supporting_evidence": [
+          "占比: 30.4%"
+        ],
+        "metadata": {
+          "domain": "technology",
+          "percentage": 0.30434782608695654
+        }
+      },
+      {
+        "pattern_type": "domain_diversity",
+        "description": "知识涉及多个领域: social, technology",
+        "confidence": 0.8,
+        "start_time": null,
+        "end_time": null,
+        "strength": 0.4,
+        "supporting_evidence": [
+          "涉及领域数: 2"
+        ],
+        "metadata": null
+      },
+      {
+        "pattern_type": "deep_hierarchy",
+        "description": "知识呈现深层层次结构，最大深度: 5",
+        "confidence": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "strength": 1.0,
+        "supporting_evidence": [
+          "最大层次深度: 5"
+        ],
+        "metadata": null
+      },
+      {
+        "pattern_type": "dominant_cluster",
+        "description": "存在主导聚类，包含8个知识项",
+        "confidence": 0.8,
+        "start_time": null,
+        "end_time": null,
+        "strength": 0.8,
+        "supporting_evidence": [
+          "聚类大小: {np.int32(0): 8, np.int32(2): 1, np.int32(1): 1}"
+        ],
+        "metadata": null
+      }
+    ],
+    "value_assessments": [
+      {
+        "economic_value": 0.05,
+        "social_value": 0.021,
+        "application_value": 0,
+        "innovation_value": 0.068,
+        "overall_value": 0.034,
+        "value_breakdown": {
+          "economic_details": {
+            "commercial_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "commercial_score": 0.0,
+            "market_potential": 0.0,
+            "cost_benefit": 0.0,
+            "investment_value": 0.0,
+            "industry_value": 0.5,
+            "final_score": 0.05
+          },
+          "social_details": {
+            "social_indicators": {
+              "high": 0,
+              "medium": 1,
+              "low": 0
+            },
+            "social_impact_score": 0.06,
+            "public_benefit": 0.0,
+            "educational_value": 0.0,
+            "cultural_value": 0.0,
+            "impact_scope": 0.0,
+            "final_score": 0.021
+          },
+          "application_details": {
+            "application_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "practicality_score": 0.0,
+            "tech_maturity": 0,
+            "feasibility": 0,
+            "tool_potential": 0.0,
+            "final_score": 0
+          },
+          "innovation_details": {
+            "innovation_indicators": {
+              "high": 0,
+              "medium": 1,
+              "low": 0
+            },
+            "novelty_score": 0.06,
+            "originality": 0.2,
+            "disruption_potential": 0.0,
+            "cutting_edge": 0.0,
+            "final_score": 0.068
+          },
+          "weights_used": {
+            "economic": 0.3,
+            "social": 0.25,
+            "application": 0.25,
+            "innovation": 0.2
+          },
+          "assessment_time": "2025-10-29T08:58:23.205530"
+        },
+        "recommendations": [
+          "价值较低，建议重新评估或寻找新的应用场景",
+          "经济价值有限，建议从其他维度寻找价值",
+          "社会价值不足，建议增强社会影响元素",
+          "应用价值低，建议提高实用性",
+          "创新价值有限，建议寻找创新突破点"
+        ],
+        "risk_factors": [
+          "总体价值偏低，存在投入产出不匹配风险",
+          "经济价值不足，商业化风险较高",
+          "社会价值有限，公众接受度可能不高",
+          "应用价值不足，实施风险较大",
+          "创新价值有限，竞争力不足"
+        ]
+      },
+      {
+        "economic_value": 0.081,
+        "social_value": 0.02,
+        "application_value": 0.036,
+        "innovation_value": 0,
+        "overall_value": 0.038,
+        "value_breakdown": {
+          "economic_details": {
+            "commercial_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 1
+            },
+            "commercial_score": 0.02,
+            "market_potential": 0.1,
+            "cost_benefit": 0.0,
+            "investment_value": 0.0,
+            "industry_value": 0.5,
+            "final_score": 0.081
+          },
+          "social_details": {
+            "social_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "social_impact_score": 0.0,
+            "public_benefit": 0.0,
+            "educational_value": 0.1,
+            "cultural_value": 0.0,
+            "impact_scope": 0.0,
+            "final_score": 0.02
+          },
+          "application_details": {
+            "application_indicators": {
+              "high": 0,
+              "medium": 2,
+              "low": 0
+            },
+            "practicality_score": 0.12,
+            "tech_maturity": 0,
+            "feasibility": 0,
+            "tool_potential": 0.0,
+            "final_score": 0.036
+          },
+          "innovation_details": {
+            "innovation_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "novelty_score": 0.0,
+            "originality": 0,
+            "disruption_potential": 0.0,
+            "cutting_edge": 0.0,
+            "final_score": 0
+          },
+          "weights_used": {
+            "economic": 0.3,
+            "social": 0.25,
+            "application": 0.25,
+            "innovation": 0.2
+          },
+          "assessment_time": "2025-10-29T08:58:23.205626"
+        },
+        "recommendations": [
+          "价值较低，建议重新评估或寻找新的应用场景",
+          "经济价值有限，建议从其他维度寻找价值",
+          "社会价值不足，建议增强社会影响元素",
+          "应用价值低，建议提高实用性",
+          "创新价值有限，建议寻找创新突破点"
+        ],
+        "risk_factors": [
+          "总体价值偏低，存在投入产出不匹配风险",
+          "经济价值不足，商业化风险较高",
+          "社会价值有限，公众接受度可能不高",
+          "应用价值不足，实施风险较大",
+          "创新价值有限，竞争力不足"
+        ]
+      },
+      {
+        "economic_value": 0.081,
+        "social_value": 0.041,
+        "application_value": 0.024,
+        "innovation_value": 0.094,
+        "overall_value": 0.059,
+        "value_breakdown": {
+          "economic_details": {
+            "commercial_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 1
+            },
+            "commercial_score": 0.02,
+            "market_potential": 0.1,
+            "cost_benefit": 0.0,
+            "investment_value": 0.0,
+            "industry_value": 0.5,
+            "final_score": 0.081
+          },
+          "social_details": {
+            "social_indicators": {
+              "high": 0,
+              "medium": 1,
+              "low": 0
+            },
+            "social_impact_score": 0.06,
+            "public_benefit": 0.0,
+            "educational_value": 0.0,
+            "cultural_value": 0.2,
+            "impact_scope": 0.0,
+            "final_score": 0.041
+          },
+          "application_details": {
+            "application_indicators": {
+              "high": 0,
+              "medium": 1,
+              "low": 1
+            },
+            "practicality_score": 0.08,
+            "tech_maturity": 0,
+            "feasibility": 0,
+            "tool_potential": 0.0,
+            "final_score": 0.024
+          },
+          "innovation_details": {
+            "innovation_indicators": {
+              "high": 0,
+              "medium": 1,
+              "low": 1
+            },
+            "novelty_score": 0.08,
+            "originality": 0.2,
+            "disruption_potential": 0.0,
+            "cutting_edge": 0.1,
+            "final_score": 0.094
+          },
+          "weights_used": {
+            "economic": 0.3,
+            "social": 0.25,
+            "application": 0.25,
+            "innovation": 0.2
+          },
+          "assessment_time": "2025-10-29T08:58:23.205699"
+        },
+        "recommendations": [
+          "价值较低，建议重新评估或寻找新的应用场景",
+          "经济价值有限，建议从其他维度寻找价值",
+          "社会价值不足，建议增强社会影响元素",
+          "应用价值低，建议提高实用性",
+          "创新价值有限，建议寻找创新突破点"
+        ],
+        "risk_factors": [
+          "总体价值偏低，存在投入产出不匹配风险",
+          "经济价值不足，商业化风险较高",
+          "社会价值有限，公众接受度可能不高",
+          "应用价值不足，实施风险较大",
+          "创新价值有限，竞争力不足"
+        ]
+      },
+      {
+        "economic_value": 0.075,
+        "social_value": 0.068,
+        "application_value": 0.07,
+        "innovation_value": 0.018,
+        "overall_value": 0.061,
+        "value_breakdown": {
+          "economic_details": {
+            "commercial_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "commercial_score": 0.0,
+            "market_potential": 0.1,
+            "cost_benefit": 0.0,
+            "investment_value": 0.0,
+            "industry_value": 0.5,
+            "final_score": 0.075
+          },
+          "social_details": {
+            "social_indicators": {
+              "high": 0,
+              "medium": 1,
+              "low": 1
+            },
+            "social_impact_score": 0.08,
+            "public_benefit": 0.0,
+            "educational_value": 0.0,
+            "cultural_value": 0.0,
+            "impact_scope": 0.4,
+            "final_score": 0.068
+          },
+          "application_details": {
+            "application_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "practicality_score": 0.0,
+            "tech_maturity": 0.12,
+            "feasibility": 0,
+            "tool_potential": 0.2,
+            "final_score": 0.07
+          },
+          "innovation_details": {
+            "innovation_indicators": {
+              "high": 0,
+              "medium": 1,
+              "low": 0
+            },
+            "novelty_score": 0.06,
+            "originality": 0,
+            "disruption_potential": 0.0,
+            "cutting_edge": 0.0,
+            "final_score": 0.018
+          },
+          "weights_used": {
+            "economic": 0.3,
+            "social": 0.25,
+            "application": 0.25,
+            "innovation": 0.2
+          },
+          "assessment_time": "2025-10-29T08:58:23.205768"
+        },
+        "recommendations": [
+          "价值较低，建议重新评估或寻找新的应用场景",
+          "经济价值有限，建议从其他维度寻找价值",
+          "社会价值不足，建议增强社会影响元素",
+          "应用价值低，建议提高实用性",
+          "创新价值有限，建议寻找创新突破点"
+        ],
+        "risk_factors": [
+          "总体价值偏低，存在投入产出不匹配风险",
+          "经济价值不足，商业化风险较高",
+          "社会价值有限，公众接受度可能不高",
+          "应用价值不足，实施风险较大",
+          "创新价值有限，竞争力不足",
+          "知识内容本身包含风险提示，需要谨慎评估"
+        ]
+      },
+      {
+        "economic_value": 0.05,
+        "social_value": 0.021,
+        "application_value": 0,
+        "innovation_value": 0,
+        "overall_value": 0.02,
+        "value_breakdown": {
+          "economic_details": {
+            "commercial_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "commercial_score": 0.0,
+            "market_potential": 0.0,
+            "cost_benefit": 0.0,
+            "investment_value": 0.0,
+            "industry_value": 0.5,
+            "final_score": 0.05
+          },
+          "social_details": {
+            "social_indicators": {
+              "high": 0,
+              "medium": 1,
+              "low": 0
+            },
+            "social_impact_score": 0.06,
+            "public_benefit": 0.0,
+            "educational_value": 0.0,
+            "cultural_value": 0.0,
+            "impact_scope": 0.0,
+            "final_score": 0.021
+          },
+          "application_details": {
+            "application_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "practicality_score": 0.0,
+            "tech_maturity": 0,
+            "feasibility": 0,
+            "tool_potential": 0.0,
+            "final_score": 0
+          },
+          "innovation_details": {
+            "innovation_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "novelty_score": 0.0,
+            "originality": 0,
+            "disruption_potential": 0.0,
+            "cutting_edge": 0.0,
+            "final_score": 0
+          },
+          "weights_used": {
+            "economic": 0.3,
+            "social": 0.25,
+            "application": 0.25,
+            "innovation": 0.2
+          },
+          "assessment_time": "2025-10-29T08:58:23.205835"
+        },
+        "recommendations": [
+          "价值较低，建议重新评估或寻找新的应用场景",
+          "经济价值有限，建议从其他维度寻找价值",
+          "社会价值不足，建议增强社会影响元素",
+          "应用价值低，建议提高实用性",
+          "创新价值有限，建议寻找创新突破点"
+        ],
+        "risk_factors": [
+          "总体价值偏低，存在投入产出不匹配风险",
+          "经济价值不足，商业化风险较高",
+          "社会价值有限，公众接受度可能不高",
+          "应用价值不足，实施风险较大",
+          "创新价值有限，竞争力不足"
+        ]
+      },
+      {
+        "economic_value": 0.05,
+        "social_value": 0.021,
+        "application_value": 0.1,
+        "innovation_value": 0.006,
+        "overall_value": 0.046,
+        "value_breakdown": {
+          "economic_details": {
+            "commercial_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "commercial_score": 0.0,
+            "market_potential": 0.0,
+            "cost_benefit": 0.0,
+            "investment_value": 0.0,
+            "industry_value": 0.5,
+            "final_score": 0.05
+          },
+          "social_details": {
+            "social_indicators": {
+              "high": 0,
+              "medium": 1,
+              "low": 0
+            },
+            "social_impact_score": 0.06,
+            "public_benefit": 0.0,
+            "educational_value": 0.0,
+            "cultural_value": 0.0,
+            "impact_scope": 0.0,
+            "final_score": 0.021
+          },
+          "application_details": {
+            "application_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "practicality_score": 0.0,
+            "tech_maturity": 0.2,
+            "feasibility": 0.2,
+            "tool_potential": 0.0,
+            "final_score": 0.1
+          },
+          "innovation_details": {
+            "innovation_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 1
+            },
+            "novelty_score": 0.02,
+            "originality": 0,
+            "disruption_potential": 0.0,
+            "cutting_edge": 0.0,
+            "final_score": 0.006
+          },
+          "weights_used": {
+            "economic": 0.3,
+            "social": 0.25,
+            "application": 0.25,
+            "innovation": 0.2
+          },
+          "assessment_time": "2025-10-29T08:58:23.205908"
+        },
+        "recommendations": [
+          "价值较低，建议重新评估或寻找新的应用场景",
+          "经济价值有限，建议从其他维度寻找价值",
+          "社会价值不足，建议增强社会影响元素",
+          "应用价值低，建议提高实用性",
+          "创新价值有限，建议寻找创新突破点"
+        ],
+        "risk_factors": [
+          "总体价值偏低，存在投入产出不匹配风险",
+          "经济价值不足，商业化风险较高",
+          "社会价值有限，公众接受度可能不高",
+          "应用价值不足，实施风险较大",
+          "创新价值有限，竞争力不足"
+        ]
+      },
+      {
+        "economic_value": 0.108,
+        "social_value": 0.021,
+        "application_value": 0.08,
+        "innovation_value": 0.024,
+        "overall_value": 0.062,
+        "value_breakdown": {
+          "economic_details": {
+            "commercial_indicators": {
+              "high": 0,
+              "medium": 1,
+              "low": 0
+            },
+            "commercial_score": 0.06,
+            "market_potential": 0.0,
+            "cost_benefit": 0.2,
+            "investment_value": 0.0,
+            "industry_value": 0.5,
+            "final_score": 0.108
+          },
+          "social_details": {
+            "social_indicators": {
+              "high": 0,
+              "medium": 1,
+              "low": 0
+            },
+            "social_impact_score": 0.06,
+            "public_benefit": 0.0,
+            "educational_value": 0.0,
+            "cultural_value": 0.0,
+            "impact_scope": 0.0,
+            "final_score": 0.021
+          },
+          "application_details": {
+            "application_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "practicality_score": 0.0,
+            "tech_maturity": 0.32,
+            "feasibility": 0,
+            "tool_potential": 0.0,
+            "final_score": 0.08
+          },
+          "innovation_details": {
+            "innovation_indicators": {
+              "high": 0,
+              "medium": 1,
+              "low": 1
+            },
+            "novelty_score": 0.08,
+            "originality": 0,
+            "disruption_potential": 0.0,
+            "cutting_edge": 0.0,
+            "final_score": 0.024
+          },
+          "weights_used": {
+            "economic": 0.3,
+            "social": 0.25,
+            "application": 0.25,
+            "innovation": 0.2
+          },
+          "assessment_time": "2025-10-29T08:58:23.205974"
+        },
+        "recommendations": [
+          "价值较低，建议重新评估或寻找新的应用场景",
+          "经济价值有限，建议从其他维度寻找价值",
+          "社会价值不足，建议增强社会影响元素",
+          "应用价值低，建议提高实用性",
+          "创新价值有限，建议寻找创新突破点"
+        ],
+        "risk_factors": [
+          "总体价值偏低，存在投入产出不匹配风险",
+          "经济价值不足，商业化风险较高",
+          "社会价值有限，公众接受度可能不高",
+          "应用价值不足，实施风险较大",
+          "创新价值有限，竞争力不足"
+        ]
+      },
+      {
+        "economic_value": 0.05,
+        "social_value": 0.061,
+        "application_value": 0.098,
+        "innovation_value": 0.024,
+        "overall_value": 0.06,
+        "value_breakdown": {
+          "economic_details": {
+            "commercial_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "commercial_score": 0.0,
+            "market_potential": 0.0,
+            "cost_benefit": 0.0,
+            "investment_value": 0.0,
+            "industry_value": 0.5,
+            "final_score": 0.05
+          },
+          "social_details": {
+            "social_indicators": {
+              "high": 0,
+              "medium": 1,
+              "low": 0
+            },
+            "social_impact_score": 0.06,
+            "public_benefit": 0.0,
+            "educational_value": 0.1,
+            "cultural_value": 0.2,
+            "impact_scope": 0.0,
+            "final_score": 0.061
+          },
+          "application_details": {
+            "application_indicators": {
+              "high": 0,
+              "medium": 1,
+              "low": 0
+            },
+            "practicality_score": 0.06,
+            "tech_maturity": 0.12,
+            "feasibility": 0.2,
+            "tool_potential": 0.0,
+            "final_score": 0.098
+          },
+          "innovation_details": {
+            "innovation_indicators": {
+              "high": 0,
+              "medium": 1,
+              "low": 1
+            },
+            "novelty_score": 0.08,
+            "originality": 0,
+            "disruption_potential": 0.0,
+            "cutting_edge": 0.0,
+            "final_score": 0.024
+          },
+          "weights_used": {
+            "economic": 0.3,
+            "social": 0.25,
+            "application": 0.25,
+            "innovation": 0.2
+          },
+          "assessment_time": "2025-10-29T08:58:23.206037"
+        },
+        "recommendations": [
+          "价值较低，建议重新评估或寻找新的应用场景",
+          "经济价值有限，建议从其他维度寻找价值",
+          "社会价值不足，建议增强社会影响元素",
+          "应用价值低，建议提高实用性",
+          "创新价值有限，建议寻找创新突破点"
+        ],
+        "risk_factors": [
+          "总体价值偏低，存在投入产出不匹配风险",
+          "经济价值不足，商业化风险较高",
+          "社会价值有限，公众接受度可能不高",
+          "应用价值不足，实施风险较大",
+          "创新价值有限，竞争力不足"
+        ]
+      },
+      {
+        "economic_value": 0.108,
+        "social_value": 0,
+        "application_value": 0,
+        "innovation_value": 0,
+        "overall_value": 0.032,
+        "value_breakdown": {
+          "economic_details": {
+            "commercial_indicators": {
+              "high": 0,
+              "medium": 1,
+              "low": 0
+            },
+            "commercial_score": 0.06,
+            "market_potential": 0.0,
+            "cost_benefit": 0.2,
+            "investment_value": 0.0,
+            "industry_value": 0.5,
+            "final_score": 0.108
+          },
+          "social_details": {
+            "social_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "social_impact_score": 0.0,
+            "public_benefit": 0.0,
+            "educational_value": 0.0,
+            "cultural_value": 0.0,
+            "impact_scope": 0.0,
+            "final_score": 0
+          },
+          "application_details": {
+            "application_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "practicality_score": 0.0,
+            "tech_maturity": 0,
+            "feasibility": 0,
+            "tool_potential": 0.0,
+            "final_score": 0
+          },
+          "innovation_details": {
+            "innovation_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "novelty_score": 0.0,
+            "originality": 0,
+            "disruption_potential": 0.0,
+            "cutting_edge": 0.0,
+            "final_score": 0
+          },
+          "weights_used": {
+            "economic": 0.3,
+            "social": 0.25,
+            "application": 0.25,
+            "innovation": 0.2
+          },
+          "assessment_time": "2025-10-29T08:58:23.206099"
+        },
+        "recommendations": [
+          "价值较低，建议重新评估或寻找新的应用场景",
+          "经济价值有限，建议从其他维度寻找价值",
+          "社会价值不足，建议增强社会影响元素",
+          "应用价值低，建议提高实用性",
+          "创新价值有限，建议寻找创新突破点"
+        ],
+        "risk_factors": [
+          "总体价值偏低，存在投入产出不匹配风险",
+          "经济价值不足，商业化风险较高",
+          "社会价值有限，公众接受度可能不高",
+          "应用价值不足，实施风险较大",
+          "创新价值有限，竞争力不足"
+        ]
+      },
+      {
+        "economic_value": 0.299,
+        "social_value": 0,
+        "application_value": 0.22,
+        "innovation_value": 0.036,
+        "overall_value": 0.152,
+        "value_breakdown": {
+          "economic_details": {
+            "commercial_indicators": {
+              "high": 0,
+              "medium": 1,
+              "low": 1
+            },
+            "commercial_score": 0.08,
+            "market_potential": 0.1,
+            "cost_benefit": 1.0,
+            "investment_value": 0.0,
+            "industry_value": 0.5,
+            "final_score": 0.299
+          },
+          "social_details": {
+            "social_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "social_impact_score": 0.0,
+            "public_benefit": 0.0,
+            "educational_value": 0.0,
+            "cultural_value": 0.0,
+            "impact_scope": 0.0,
+            "final_score": 0
+          },
+          "application_details": {
+            "application_indicators": {
+              "high": 0,
+              "medium": 0,
+              "low": 0
+            },
+            "practicality_score": 0.0,
+            "tech_maturity": 0.32,
+            "feasibility": 0.4,
+            "tool_potential": 0.2,
+            "final_score": 0.22
+          },
+          "innovation_details": {
+            "innovation_indicators": {
+              "high": 0,
+              "medium": 2,
+              "low": 0
+            },
+            "novelty_score": 0.12,
+            "originality": 0,
+            "disruption_potential": 0.0,
+            "cutting_edge": 0.0,
+            "final_score": 0.036
+          },
+          "weights_used": {
+            "economic": 0.3,
+            "social": 0.25,
+            "application": 0.25,
+            "innovation": 0.2
+          },
+          "assessment_time": "2025-10-29T08:58:23.206164"
+        },
+        "recommendations": [
+          "价值较低，建议重新评估或寻找新的应用场景",
+          "经济价值有限，建议从其他维度寻找价值",
+          "社会价值不足，建议增强社会影响元素",
+          "应用价值低，建议提高实用性",
+          "创新价值有限，建议寻找创新突破点"
+        ],
+        "risk_factors": [
+          "总体价值偏低，存在投入产出不匹配风险",
+          "经济价值不足，商业化风险较高",
+          "社会价值有限，公众接受度可能不高",
+          "应用价值不足，实施风险较大",
+          "创新价值有限，竞争力不足"
+        ]
+      }
+    ]
+  }
+}
